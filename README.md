@@ -9,7 +9,6 @@ Climate Analysis is a simple and user-friendly Python application for visualizin
 - **Line Plot:** Visualize monthly temperature variation.
 - **Subplots:** Display temperature, humidity, and precipitation in separate graphs.
 - **Heatmap:** Show average monthly temperature by city.
-- **Theme Toggle:** Switch between light and dark themes with a single line of code.
 
 ## Technologies Used
 
