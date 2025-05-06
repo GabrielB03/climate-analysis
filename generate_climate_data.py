@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Climate data (fictional but plausible)
+# Climate data
 data = {
     "Month": [
         "Jan", "Feb", "Mar", "Apr", "May", "Jun",
