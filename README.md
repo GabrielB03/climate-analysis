@@ -46,4 +46,7 @@ Climate Analysis is a simple and user-friendly Python application for visualizin
 # Project Test
 
 ![image](https://github.com/user-attachments/assets/2f98ca1b-6a02-4903-9d60-27d9353012cf)
+
 ![image](https://github.com/user-attachments/assets/4bbcaa44-3aac-45bc-bbab-811913e569d4)
+
+![image](https://github.com/user-attachments/assets/be7a5bb0-1e19-4515-a4f1-230f1f06395c)
